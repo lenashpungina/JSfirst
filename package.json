@@ -1,0 +1,22 @@
+{
+  "name": "jsfirst",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenashpungina/JSfirst.git"
+  },
+  "author": "LS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lenashpungina/JSfirst/issues"
+  },
+  "homepage": "https://github.com/lenashpungina/JSfirst#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
